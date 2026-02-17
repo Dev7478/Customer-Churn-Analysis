@@ -49,7 +49,7 @@ The project includes:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/arnab236/Customer-Churn-Analysis-Prediction.git
+   git clone https://github.com/Dev7478/Customer-Churn-Analysis-Prediction.git
    cd Customer-Churn-Analysis-Prediction
    ```
 
