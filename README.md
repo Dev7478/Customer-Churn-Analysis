@@ -3,7 +3,7 @@
 Predict customer churn using machine learning models and visualize insights from customer data.
 This project includes a data analysis notebook and a Streamlit web app for real-time churn prediction.
 
----
+-----
 
 ## 📋 Table of Contents
 
